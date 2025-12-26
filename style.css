@@ -466,7 +466,7 @@ body{
     color: #ff8c00;
 }
 .address{
-    width: 65vh;
+    width: auto;
     background: #fff;
     padding: 40px;
     border-radius: 10px;
@@ -557,4 +557,5 @@ body{
     color: #777;
     font-size: 13px;
 }
+
 
